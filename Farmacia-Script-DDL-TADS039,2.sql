@@ -1,0 +1,1 @@
+SELECT * FROM farmarciatads039m.cliente;
